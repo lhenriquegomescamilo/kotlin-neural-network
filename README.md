@@ -23,3 +23,7 @@ The network is capable of learning the **XOR function**, demonstrating backpropa
 - Output layer: 1 neuron
 - Activation function: Sigmoid
 - Training method: Stochastic Gradient Descent (SGD)
+
+## How to test
+* Check it out if you have a kotlin-notebook installed
+* And go the file: `notebooks/xor.neural-network.ipynb` and feel free to play by yourself.
